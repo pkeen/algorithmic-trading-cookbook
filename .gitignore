@@ -1,0 +1,11 @@
+# ignore dotenv secrets
+.env
+
+# ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# if you ever git-add your env folder:
+env/
+.venv/
+*.egg-info/
